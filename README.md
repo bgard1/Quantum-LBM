@@ -7,9 +7,9 @@ advection-diffusion lattice Bolztman paper:
 
 Files
 -----
-
- * `LRgates.ipynb`: ??
- * `c1c2.ipynb`: ??
+ * `sriharsha/`
+   * `LRgates.ipynb`: Left and Right shift operators
+   * `c1c2.ipynb`: C1 and C2 gates
  * `austin/`
    * `c1.ipynb`: Qiskit code for collision operators `C_1`, `C_2`, and
      propagation operators `L`, `R`
