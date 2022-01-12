@@ -12,9 +12,12 @@ Files
    * `c1c2.ipynb`: C1 and C2 gates
  * `austin/`
    * `c1.ipynb`: Qiskit code for collision operators `C_1`, `C_2`
+   * `c_12.nb`: Mathematica code for collision operators `C_1`, `C_2` generalized to n qubits
    * `cnot-fun-times.nb`: Mathematica code for decomposing
      collision+propagation operators into standard logical quantum gates
    * `L_R.nb`: Mathematica notebook with general decompisition of propagation
      operators `L`, `R`
    * `l_r.ipynb`: Qiskit code showing general decompisition of propagation
      operators `L`, `R`
+   * `composition.nb`: Mathematica notebook with final circuit
+   * `composition.ipynb`: Qiskit code with final circuit
