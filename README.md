@@ -8,7 +8,7 @@ advection-diffusion lattice Bolztman paper:
 Files
 -----
  * `sriharsha/`
-   * `gates.ipynb`: Left and Right shift operators
+   * `gates.ipynb`: Left shift, Right shift, C1, and C2 gates
    * `AdvectionDiffusion.ipynb`: Circuit for multiple timesteps
    * `Timestep.ipynb`: Circuit for each timestep
  * `austin/`
