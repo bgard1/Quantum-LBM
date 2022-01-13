@@ -8,8 +8,9 @@ advection-diffusion lattice Bolztman paper:
 Files
 -----
  * `sriharsha/`
-   * `LRgates.ipynb`: Left and Right shift operators
-   * `c1c2.ipynb`: C1 and C2 gates
+   * `gates.ipynb`: Left and Right shift operators
+   * `AdvectionDiffusion.ipynb`: Circuit for multiple timesteps
+   * `Timestep.ipynb`: Circuit for each timestep
  * `austin/`
    * `c1.ipynb`: Qiskit code for collision operators `C_1`, `C_2`
    * `c_12.nb`: Mathematica code for collision operators `C_1`, `C_2` generalized to n qubits
