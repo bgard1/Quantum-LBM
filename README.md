@@ -11,6 +11,7 @@ Files
    * `gates.ipynb`: Left shift, Right shift, C1, and C2 gates
    * `AdvectionDiffusion.ipynb`: Circuit for multiple timesteps
    * `Timestep.ipynb`: Circuit for each timestep
+   * `classicalLBM.ipynb`: Classical LBM for Advection Diffusion
  * `austin/`
    * `c1.ipynb`: Qiskit code for collision operators `C_1`, `C_2`
    * `c_12.nb`: Mathematica code for collision operators `C_1`, `C_2` generalized to n qubits
