@@ -23,3 +23,7 @@ Files
      operators `L`, `R`
    * `composition.nb`: Mathematica notebook with final circuit
    * `composition.ipynb`: Qiskit code with final circuit
+ * `fatima/`
+   * `advection_diffusion_LBM.m`: Classical LBM for advection-diffusion equation using D1Q2. 
+      * Set flHeatDiffusion to 1 to solve heat diffusion equation
+      * Set flHeatDiffusion to 0 to solve advection-diffusion equation with point source initial condition, compared to Budinski solution
